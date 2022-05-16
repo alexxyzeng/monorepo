@@ -23,7 +23,7 @@ is under control of Verdaccio community and constantly upated.
 
 ## See it in action
 
-* Test on [Docker + LocalStack + Verdaccio 4 + S3 Plugin example](https://github.com/verdaccio/docker-examples/tree/master/amazon-s3-docker-example).
+* Test on [Docker + LocalStack + Verdaccio 4 + S3 Plugin example](https://github.com/verdaccio/verdaccio/tree/master/docker-examples/v4/amazon-s3-docker-example).
 * Using `docker-compose` on this repo based on [**verdaccio-minio**](https://github.com/barolab/verdaccio-minio) developed by [barolab](https://github.com/barolab).
 * Feel free to propose new ways to run this plugin. 
 
